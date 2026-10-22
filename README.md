@@ -112,7 +112,7 @@ Untuk melihat pesan error, buka DevTools (F12) lalu tab **Console** dan cari log
 - Tidak memakai izin khusus (`permissions`); hanya *content script* pada `web.whatsapp.com`.
 - Seluruh kode terbuka dan bisa kamu periksa sendiri.
 
-## Penafian
+## Disclaimer
 
 Proyek ini dibuat untuk keperluan pribadi dan edukasi. Ekstensi ini **tidak berafiliasi, disponsori, atau didukung oleh WhatsApp maupun Meta**. Gunakan hanya untuk menyimpan status yang dibagikan kepadamu, hormati privasi dan hak cipta pemilik konten, dan jangan menyebarkannya ulang tanpa izin. Penggunaan sepenuhnya menjadi tanggung jawab pengguna.
 
@@ -127,6 +127,4 @@ Saran dan perbaikan sangat diterima.
 5. Buka *Pull Request*.
 
 ---
-
-Dibuat oleh [@maxnmrantau](https://github.com/maxnmrantau)
 

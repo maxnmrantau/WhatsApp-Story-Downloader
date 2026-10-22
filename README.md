@@ -126,17 +126,7 @@ Saran dan perbaikan sangat diterima.
 4. Push ke branch: `git push origin fitur-baru`
 5. Buka *Pull Request*.
 
-## Rencana Pengembangan
-
-- [ ] Unduh semua status dari satu kontak sekaligus
-- [ ] Nama file berdasarkan nama kontak
-- [ ] Pilihan posisi tombol lewat halaman opsi
-- [ ] Dukungan Firefox
-
-## Lisensi
-
-Disarankan memakai [MIT License](https://choosealicense.com/licenses/mit/). Tambahkan file `LICENSE` di repositori sebelum dipublikasikan.
-
 ---
 
 Dibuat oleh [@maxnmrantau](https://github.com/maxnmrantau)
+

@@ -1,3 +1,5 @@
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/1d5b1c56-da06-4f91-86f4-608303f9e5cf" />
+
 # WA Status Downloader
 
 Ekstensi Chrome untuk mengunduh **gambar dan video status/story** langsung dari **WhatsApp Web**. Cukup buka status, lalu klik tombol **Unduh** yang muncul di samping layar video.
